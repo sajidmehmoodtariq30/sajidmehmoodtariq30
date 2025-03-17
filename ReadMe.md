@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have recently completed my intermediate.<br>I am currently working on E-Commerce webite<br>I am looking to collabrate on Open source.<br>I am currently learning Web Devlopment.<br>I love to code while listen to music.
+I am in Second Semester at UET pursuing BSCS.<br>I am currently working on Youtube Clone<br>I am looking to collabrate on Open source.<br>I am currently learning Web Devlopment.<br>I love to code while listen to music.
 
 
 ## 🌐 Socials:
